@@ -1,4 +1,4 @@
-# Multi-Axis Servo Control over Serial (RS-232 / RS-485)
+# Multi-Axis Servo Control over Serial (RS-232)
 
 This repository contains a **cross-platform, multi-axis servo control framework** written in Python.  
 It enables simultaneous control and monitoring of multiple servo drives connected via **independent serial (COM) ports**, using a **threaded, non-blocking architecture**.
