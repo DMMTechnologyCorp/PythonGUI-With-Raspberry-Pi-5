@@ -8,9 +8,10 @@ The project is intended as a **control and diagnostics utility** for serial-base
 ---
 
 ## YouTube Video for Demonstration and Overview
-*A demonstration and walkthrough video will be linked here once available.*
+#### [Demonstration and Walkthrough Video - Multi-Axis Communication with Raspberry Pi - Written in Python](https://www.youtube.com/watch?v=XlFxQXcKghs)
 
-(YouTube link to be updated)
+This video provides a full demonstration of the system in action, followed by detailed code explanations in the second half.  
+It offers a clear overview of the project’s behavior, architecture, and implementation.
 
 ---
 
